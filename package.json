@@ -1,0 +1,17 @@
+{
+  "name": "building-apis",
+  "version": "1.0.0",
+  "description": "* Setup an API with a project structure like:",
+  "main": "chirpstore.js",
+  "scripts": {
+    "dev": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.11"
+  }
+}
